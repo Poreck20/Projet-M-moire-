@@ -3,7 +3,7 @@
 
 Ce projet vise à analyser et modéliser la valeur foncière des biens immobiliers en utilisant des techniques de régression et d’apprentissage automatique. L'objectif est de comprendre les facteurs influençant le prix au m² des biens immobiliers en Île-de-France à partir des données de **data.gouv.fr**.  
 
-## Contenu du projet
+## 📂 Contenu du projet
 
 - **`main.py`** : Contient les scripts principaux pour le traitement des données et la modélisation.  
 - **`Memoire.ipynb`** : Un notebook détaillant les analyses exploratoires, les prétraitements des données et les résultats des modèles.  
